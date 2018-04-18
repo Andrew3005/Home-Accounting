@@ -23,6 +23,12 @@
       "password": "123456",
       "name": "Andryxa Piddubnjak",
       "id": 4
+    },
+    {
+      "email": "vladroy2797@gmail.com",
+      "password": "qwertyuio",
+      "name": "Vlados",
+      "id": 5
     }
   ],
   "bill": {
